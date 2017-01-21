@@ -22,7 +22,7 @@
 # 1.2 Power
 #   determina autovalores de matrices dominantes, es decir, el mayor autovalor
 
-# 1.3 Simetric Power
+# 1.3 Simmetryc Power
 #   metodo power para matrices SIMETRICAS
 
 # 1.4 Inverse Power

@@ -2,7 +2,7 @@
 from math import *
 from auxFuncEigen import *
 from jacobi import *
-#from symmetricPower import *
+from symmetricPower import *
 from inversePower import *
 from rayleigh import *
 from gerschgorinSturm import *
@@ -27,10 +27,10 @@ vector, value = power(A,x0,printText = 0)
 print vector
 print value
 # symmetric power
-#print "\nMetodo de Potencia Simetrica"
-#vector1, value1 = symmetricPower(A,x0,printText = 0)
-#print vector1
-#print value1
+print "\nMetodo de Potencia Simetrica"
+vector1, value1 = symmetricPower(A,x0,printText = 0)
+print vector1
+print value1
 # inverse power
 print "\nMetodo de Potencia Inversa"
 vector2, value2 = inversePower(A,x0,printText = 0)

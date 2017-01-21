@@ -3,6 +3,14 @@ from numpy import *
 from math import *
 
 # -----------------------------------------------------
+# producto escalar 2 vectores
+def transProdVec(x,y):
+  sum = 0
+  for i in range(len(x)):
+    sum = sum + x[i]*y[i]
+  return sum
+
+# -----------------------------------------------------
 # encuentra el maximo de la diagonal
 def maxElement(a):
   n = len(a)
