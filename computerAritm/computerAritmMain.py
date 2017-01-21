@@ -39,7 +39,7 @@ def main():
   base = int(input('Introduce la base: '))
   print(cambio_base(numero, base))
   
-   '''
+  '''
     parte 4: int a binario
   '''
   decimal = int(input('Introduce el número entero a convertir a binario: '))
