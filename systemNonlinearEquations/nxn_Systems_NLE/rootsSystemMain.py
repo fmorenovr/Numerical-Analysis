@@ -48,8 +48,8 @@ print "\nMetodo de Fixed Point generalizado"
 print fixedPointSystem(g,x0,printText = 0)
 # Descenso Gradiente
 print "\nMetodo del Descenso Gradiente"
-print gradientDescentSNLE(F,x0,printText=0)
+print gradientDescentSNLE(f,x0,printText=0)
 # Homotopia y continuacion
 print"\nMetodo Homotopia"
-print homotopyContinuation(F,x0,printText=0)
+print homotopyContinuation(f,x0,printText=0)
 print

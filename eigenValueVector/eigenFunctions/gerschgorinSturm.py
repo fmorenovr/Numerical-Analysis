@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 from math import *
 from auxFuncEigen import *
-from brent import *
 
 # -----------------------------------------------------
 # 1.6 METODO GERSCHGORIN-STURM
