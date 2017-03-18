@@ -2,7 +2,7 @@
 
 Libreria desarrollada en python sobre los algoritmos planteados sobre Analisis Numérico.
 
-Tomando como base el repositorio de [Gussepe Bravo](https://github.com/gusseppe/NumericalAnalysis) en la implementacion de python Y autoria personal la parte de octave
+Tomando como base el repositorio de [Gussepe Bravo](https://github.com/gusseppe/NumericalAnalysis) en la implementacion de python y autoria personal la parte de octave.
 
 # Sobre las carpetas
 
