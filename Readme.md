@@ -8,27 +8,27 @@ Tomando como base el repositorio de [Gussepe Bravo](https://github.com/gusseppe/
 
 ## python
 
-*computerAritm: contiene scritps relativos a calculo de numeros maquina, transformacion a binario, numero epsilon, etc
+* computerAritm: contiene scritps relativos a calculo de numeros maquina, transformacion a binario, numero epsilon, etc
 
-*eigenValueVector: metodos de obtencion de los autovalores y autovectores de na matriz.
+* eigenValueVector: metodos de obtencion de los autovalores y autovectores de na matriz.
 
-*nonLinearEquations: Solucion de las raices de funciones no lineales como polinomios u otras funciones.
+* nonLinearEquations: Solucion de las raices de funciones no lineales como polinomios u otras funciones.
 
-*systemLinearEquations: Solucion de sistemas de ecuaciones lineales.
+* systemLinearEquations: Solucion de sistemas de ecuaciones lineales.
 
-*systemNonLinearEquations: Solucion de las raices de funciones R^n -> R^n (sistemas no lineales).
+* systemNonLinearEquations: Solucion de las raices de funciones R^n -> R^n (sistemas no lineales).
 
 
 ## m (octave)
 
-*boundaryValueProblem: Contiene scripts sobre el problema de frontera.
+* boundaryValueProblem: Contiene scripts sobre el problema de frontera.
 
-*initialValueProblem: Contiene scripts sobre los problemas de valor inicial.
+* initialValueProblem: Contiene scripts sobre los problemas de valor inicial.
 
-*inpertoplationPolynom: Contiene scripts sobre interpolacion de polinomios (ortogonales y por puntos).
+* inpertoplationPolynom: Contiene scripts sobre interpolacion de polinomios (ortogonales y por puntos).
 
-*numericDifferentiation: Contiene scripts sobre diferenciacion numerica (de orden n).
+* numericDifferentiation: Contiene scripts sobre diferenciacion numerica (de orden n).
 
-*numericIntegration: Contien scripts sobre integracion numerica (de riemann y cuadraticas).
+* numericIntegration: Contien scripts sobre integracion numerica (de riemann y cuadraticas).
 
 
