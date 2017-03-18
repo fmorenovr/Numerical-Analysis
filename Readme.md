@@ -6,7 +6,7 @@ Tomando como base el repositorio de [Gussepe Bravo](https://github.com/gusseppe/
 
 # Sobre las carpetas
 
-##python
+## python
 
 *computerAritm: contiene scritps relativos a calculo de numeros maquina, transformacion a binario, numero epsilon, etc
 
