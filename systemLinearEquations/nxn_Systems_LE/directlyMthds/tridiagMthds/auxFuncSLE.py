@@ -26,7 +26,7 @@ def inputMatrix():
   print("Ingreso de datos de la matriz")
   done=0
   while not done:
-    m = raw_input("Ingrese el orden de la matriz: ")
+    m = raw_input("Ingrese el orden (dimension) de la matriz: ")
     if m=='':
       print("vuelva a ingresar")
     else:
