@@ -151,6 +151,15 @@ def transMatrix(M):
   return [[ M[i][j] for i in range(n)] for j in range(m)]
 
 # ------------------------------------------------------------
+# transpuesta inversa de una matriz
+# [M[i][j] for i in range(n)] imprime M[i][j] (j fijo), es decir, imprime A[0][j],A[1][j], ... y con el siguiente igual
+# probar [M[i][1] for i in range(n)]
+def transInvMatrix(M):
+  n = len(M)
+  m = len(M[0])
+  return [[ M[i][j] for i in range(n-1,-1,-1)] for j in range(m-1,-1,-1)]
+
+# ------------------------------------------------------------
 # inversa de una matriz
 def invMatrix(D):
   n = len(D)
